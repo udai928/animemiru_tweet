@@ -1,0 +1,6 @@
+# pip install -r requirements.txt
+python-twitter
+PyYAML==3.12
+gspread
+oauth2client
+bs4
